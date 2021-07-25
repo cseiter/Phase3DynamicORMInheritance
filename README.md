@@ -95,3 +95,4 @@ called Active Record that handles *all* of the ORM interactions for us, and
 we'll simply inherit our Ruby classes from Active Record's classes.
 
 
+# Phase3DynamicORMInheritance
